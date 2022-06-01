@@ -1,0 +1,4 @@
+flask
+waitress
+sqlite3
+tensorflow
